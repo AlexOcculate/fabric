@@ -165,7 +165,7 @@ This document provides a comprehensive overview of the technologies, frameworks,
 - **Ollama** - Local LLM hosting
 - **GitHub Models** - GitHub-hosted models
 - **Microsoft 365 Copilot** - Enterprise AI integration
-- **Digital Ocean GenAI** - Cloud AI services
+- **DigitalOcean GenAI** - Cloud AI services
 - **Abacus AI** - RouteLLM APIs
 - **Z AI** - AI services
 - **Perplexity AI** - Search-based AI
