@@ -1,3 +1,9 @@
+
+
+- [Back to __MASTER__](https://github.com/AlexOcculate/__MASTER__/blob/main/README.md)
+
+---
+
 <div align="center">
     <a href="https://go.warp.dev/fabric" target="_blank">
         <sup>Special thanks to:</sup>
